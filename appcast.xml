@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>TalkMate Updates</title>
-        <link>https://anshsama.github.io/talkmate-releases/appcast.xml</link>
-        <description>Signed TalkMate application updates.</description>
-        <language>en</language>
-        <item>
-            <title>0.1.1-update-test</title>
-            <pubDate>Sun, 14 Jun 2026 22:08:22 +1000</pubDate>
-            <sparkle:version>1002</sparkle:version>
-            <sparkle:shortVersionString>0.1.1-update-test</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://anshsama.github.io/talkmate-releases/TalkMate-0.1.1-update-test.md</sparkle:releaseNotesLink>
-            <enclosure url="https://anshsama.github.io/talkmate-releases/TalkMate-0.1.1-update-test.zip" length="2987279" type="application/octet-stream" sparkle:edSignature="nCfrxQ7yFAuYm2wGrBvEhA7ZZ6SC2szobuznOiwoUqOPcYGdf8CDsSN8l3TWQmdYr4o+peuvkwRcnkFTLAw5BA=="/>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>TalkMate Updates</title>
+    <link>https://anshsama.github.io/talkmate-releases/appcast.xml</link>
+    <description>Signed TalkMate application updates.</description>
+    <language>en</language>
+  </channel>
 </rss>
